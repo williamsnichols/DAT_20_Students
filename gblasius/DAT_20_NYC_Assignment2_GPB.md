@@ -8,6 +8,6 @@
 
 #### **iv)** I want to be challenged, to learn more about data science, to meet interesting people, and to hear about new ideas for changing the world!
 
-#### **v)** Here’s a recent article applying big data analysis to genetics fascinating!
+#### **v)** Here’s a recent article applying big data analysis to genetics - fascinating!
 
 #### [NYTimes Article on Genetics and Big Data](https://www.evernote.com/l/ADXT9pcFVVxByowqugYPBbqwJUX5HjQZ6aQ)
