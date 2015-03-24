@@ -69,4 +69,4 @@ def begin_live_feed(tags_to_follow):
 
 term = raw_input(" term to search: ")
 print "begin_live_feed([\"%s\"])" %(term)
-begin_live_feed([%s]) %(term)
+begin_live_feed([term]) 
