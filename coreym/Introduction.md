@@ -11,4 +11,4 @@ I like the hacking, analysis, and presenting to businesspeople aspects of data s
 
 And of course, I'm here to get to know some other data types! [Please add me on linkedin](http://linkedin.com/in/coreymaher) if you're so inclined. 
 ##5. An interesting blog post or website that is data oriented that you recently read or found.
-![Many graphs](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/03/24/how-china-used-more-cement-in-3-years-than-the-u-s-did-in-the-entire-20th-century/)
+[Many neat graphs here](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/03/24/how-china-used-more-cement-in-3-years-than-the-u-s-did-in-the-entire-20th-century)
