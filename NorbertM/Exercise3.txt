@@ -1,0 +1,16 @@
+###Exercise 3
+Norbert
+
+#Name of Algorithm
+Support Vector Machines
+
+#Problem it solves
+Predicting  specific outcome such as response or no-response
+
+#How it works
+SVM works by finding the best seperating line or hyperplane between points that are closest to the outcome boundaries
+
+#Applications in business
+-Spam mail filtering
+-Classifying an individual as high or low risk
+-Determining if a customer will buy a product or use a service again   
