@@ -6,6 +6,8 @@ Naive Bayes uses Bayes’ Theorem, which states the the conditional probability 
 
 Prob(B|A) = Prob (A u B)/Prob(B)
 
+One can simply count the number of occurrences of (A u B), and B in total to get the conditional probability of (B|A). 
+
 The Naive Bayes algorithm is said to be fast and scalable and lends itself to parallel execution.  The calculation of probabilities is a straightforward exercise where outcomes in each category can be determined by a counting algorithm.    Therefore, it is very good for large datasets.  
 
 A Naive Bayes technique can be used in many different ways:
