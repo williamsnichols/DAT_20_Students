@@ -16,7 +16,7 @@ I signed up for Data Science course at GA to learn more about the industry and d
 
 A very interesting article in Harvard Business Review
 
-### [Data Scientist: The Sexiest Job of the 21st Century] ###(https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
- ####Thomas H. DavenportD.J. Patil####
-  #####FROM THE OCTOBER 2012 ISSUE#####
+### [Data Scientist: The Sexiest Job of the 21st Century] (https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/) ###
+ #### Thomas H. DavenportD.J. Patil ####
+  ##### FROM THE OCTOBER 2012 ISSUE #####
   
