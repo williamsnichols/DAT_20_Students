@@ -12,13 +12,12 @@ A Naive Bayes technique can be used in many different ways:
 
 ### **i) What credit card borrower characteristics are the most predictive of default?**   
 
-For example, you can break down a population of credit card borrowers by income and calculate the conditional probability of default for each particular income ‘bracket.’As well, one could calculate the conditional probability of default over a number of different borrower characteristics.  This is particularly useful in investing in structured credit or any other portfolio strategy.  
+One can stratify a population of credit card borrowers by income and calculate the conditional probability of default for each particular income ‘bracket.’As well, one could calculate the conditional probability of default over a number of different borrower characteristics.  This is particularly useful in investing in structured credit or any other portfolio strategy.  
 
-**ii) Detecting causes of disease in a large population
+**ii) Detecting possible causes of disease in a large population**
 
-One could test a population and relationships between characteristics of people who contract a disease and those who do not.   
+One can test a population and relationships between characteristics of people who contract a disease and those who do not.   
 
-**iii) 
 
 ### **NEW WORDS:**
 * Support Vector Machine
