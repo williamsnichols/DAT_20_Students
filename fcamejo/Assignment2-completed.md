@@ -3,7 +3,7 @@
 Hello my name is Franklyn Camejo. I am a Director of IT at a Legal Outsourcing firm called Integreon. 
 
 My responsibilities include:
- __*__ Managing the day-to-day IT operations for all the Integreon U.S.-based offices
+ * Managing the day-to-day IT operations for all the Integreon U.S.-based offices
  __*__ Managing local and global IT projects
  __*__ Acting as liaison to various business units in the organization
  __*__ Managing a staff of six engineers. 
