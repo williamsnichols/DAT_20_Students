@@ -1,0 +1,49 @@
+UPLOADING
+Make sure putting anything you ware working on in 
+EVC/GA/Upstream/DAT_20_Students/EVCinNYC/
+
+git status
+git add .
+git commit -a -m "explain what uploading"
+git push -u origin master
+
+DOWNLOADING
+Make sure you are getting the most up-to-date class documents
+EVC/GA/DAT_20_NYC
+git status
+git pull
+
+
+GETTING DATA
+Loading a file into the IP Notebook
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+%matplotlib inline
+url = '/Users/EVC/GA/upstream/DAT_20_Students/EVCinNYC/Assigment4/bikeshare.csv'
+HAS HEADER ROW
+data = pd.read_csv(url)  
+DOESN'T HAVE HEADER YOU NEED TO APPLY
+names = ['col1name','col2name', etc.]
+data = pd.read_csv(url, head=0, names=names)
+
+
+
+ANALYZING DATA
+data.head()
+data.describe()
+
+Note Subsets of Data are denoted within [] right after dataframe name
+data[data.runtime<140].describe()
+data[['list','of','columns','want','to describe']].describe()
+
+If multiple subsets, then you have to have each if statement in () and & in between
+data[(data.runtime<140)&(data.runtime>100)].describe()
+
+
+
+CLEANING DATA
+
+
+
+VISUALIZING DATA
