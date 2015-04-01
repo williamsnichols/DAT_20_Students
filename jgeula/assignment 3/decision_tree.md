@@ -1,0 +1,10 @@
+
+* **What was the name of the algorithm you read about?** Classification > [Decision Tree](http://docs.oracle.com/database/121/DMCON/algo_decisiontree.htm#DMCON306). This [video](https://www.youtube.com/watch?v=eKD5gxPPeY0) was very helpful in explaining what this does. 
+* **What data problem does it solve? (listed under Technique on previous page)** The decision tree algorithm can be used to predict specific outcomes (will / won't, etc. [ possibly binary outcomes, but unsure]).
+* **In layman's terms, what does the algorithm do?** As I understand it, a decision tree starts with a set of data that includes an outcome. Using this complete data set as an input, the decision tree will predict the outcome of a situation when presented with a set of attributes. 
+    The algorithm will "divide and conquer" -- splitting the attributes into subsets and seeing if the result attached to that attirbute is pure (all yes or all no). If they are pure it stops, if it's not it will repeat. 
+    It can also give you a confidence source for that particular "path" or out come that it recommends. 
+* **Come up with up to three applications of this algorithm in business.** Taking an extremely simplistic view, decision trees could work in the following scenarios: 
+    1. If you start with a set of historical data regarding basic user behavior and their upgrade status - try and predict whether current basics will upgrade based on their current behavior. 
+    2. If you have a set of data regarding what blog posts a person read and which ones they forwarded to a friend, can predict which posts to push to a person in the hopes that they'll send to a friend (in an attempt to make it "viral"). 
+    3. Predict what companies will successfully exit based on historical data (investors in company, amount raised prior to exit, frequency of amount raised, sector, etc.) (with this example, there are *so* many other factors that go into this, that this might not be the best / only algorithm needed to even attempt to answer that question). 
