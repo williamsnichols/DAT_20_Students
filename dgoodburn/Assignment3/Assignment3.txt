@@ -1,0 +1,7 @@
+1. Minimum Description Length
+2. Attribute Importance
+3. MDL helps determine the relative importance of various attributes. It does so by finding regularities that could be used to compress the data. The best hypothesis is the one that compresses the data the most. It can be useful for situations that are arbitrarily complex where overfitting could be an issue.
+4. Examples:	
+	1. Determining the expected lifetime of a customer based on their characteristics (size, location, portfolio makeup)
+	2. In education, looking at troubled students, and finding correlations between them to determine potential causes.
+	3. Looking at professional hockey teams to find which statistics are most related to team winning percentage.

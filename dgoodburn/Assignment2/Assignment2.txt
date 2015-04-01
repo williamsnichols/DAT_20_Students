@@ -1,0 +1,5 @@
+1. Dan Goodburn
+2. I’m a Finance Manager at a portfolio intelligence startup.
+3. I haven’t worked with many sizeable data sources in the past, but I’m just becoming familiar with SQL so I’m interested in exploring relational databases further.
+4. I signed up for this course to try something new. In particular, I’d like to get better at predictive modelling as it is something I do at work every day.
+5. [Are All Data Scientists Nerds?](http://datasciencebe.com/2015/03/27/the-question-are-all-data-scientists-nerds-answered-thanks-to-the-data-innovation-survey-2017/)
