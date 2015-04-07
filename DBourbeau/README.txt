@@ -1,3 +1,0 @@
-# First Commit
-# GoForIt
-# work
