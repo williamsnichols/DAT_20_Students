@@ -1,0 +1,37 @@
+#I want to find the highest rated and lowest rated films of each decade.
+
+
+max_rated = subset[subset.score == subset.score.max()].title.values
+
+min_rated = subset[subset.score == subset.score.min()].title.values
+
+for dc, subset in data.groupby(decade):
+    print '%d' %(dc) + ":" + "Max rated movie- " + '%s' %(max_rated) + " Min rated movie- " + '%s' %(min_rated)
+    
+    
+    
+    
+#What is the relationship between runtime and score?
+
+plt.scatter(data.runtime, data.score)
+plt.xlabel("Runtime")
+plt.ylabel("IMDB Rating")
+
+
+
+
+#There doesn't seem to be any coorelation here. However, there are 2 runtime outliers that both scored high. What are they?
+
+#Finding outliers:
+
+data[(data.runtime > 400)][['imdbID', 'title', 'year', 'score', 'genres']]
+
+
+
+
+#I hypothesize that there will be more votes for more recent movies
+
+plt.scatter(data.votes, data.year)
+plt.xlabel("Number of Votes")
+plt.xscale("log")
+plt.ylabel("Year")
