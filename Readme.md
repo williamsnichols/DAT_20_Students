@@ -7,6 +7,8 @@ For DAT 20 NYC: https://github.com/ga-students/DAT_20_NYC
 **Fork this repo and add your assignments according the following directory structure:**
 `<Name>/<Assignment#>`
 
+http://goo.gl/forms/YZWvn9MUlt
+
 #### This is a simple markdown file!
 
 **Open Readme.md in a text editor to see how it's formatted**
@@ -21,11 +23,4 @@ For details on markdown see: http://daringfireball.net/projects/markdown/
 1. Add your own Readme to that folder (git doesn't track empty folders by default)
 1. Commit your changes 
 1. Submit a pull request with your newly commited directory. Github has a great tutorial on this here: https://help.github.com/articles/using-pull-requests/.
-
-
-## Assignments:
-1. Running Python *(Due 3/17)*
-1. Forking a Repository *(Due 3/19)*
-1. Reviewing a data mining algorithm *(Due 3/26)*
-1. Visualizing and Exploring Data *(Due 4/2)*
-
+ 
