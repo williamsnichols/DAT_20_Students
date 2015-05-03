@@ -1,0 +1,215 @@
+Transaction_ID,Products,City,Previous_Sessions,Days_Since_Last_Session,Source,Medium,Session_Duration,Revenue,Tax,Shipping,Quantity
+215,Green Label,McLean,2,0,paypal.com,referral,77,$168.00 ,$0.00 ,$6.00 ,15
+218,Black Label,New York,2,0,google,organic,1319,$118.00 ,$0.00 ,$0.00 ,12
+170,Black Label,Davis,1,0,google,cpc,402,$94.00 ,$0.00 ,$6.00 ,11
+228,American Style Pepper Sauce,Norwalk,2,5,(direct),(none),512,$92.00 ,$0.00 ,$0.00 ,10
+394,Hamajang Kiawe Smoked Ghost Pepper,Copenhagen,2,0,paypal.com,referral,86,$91.45 ,$0.00 ,$47.45 ,2
+352,313 Foodie Sauce,Creve Coeur,3,5,(direct),(none),642,$86.00 ,$0.00 ,$6.00 ,8
+388,$83.00 Gift Certificate,New York,1,0,(direct),(none),159,$83.00 ,$0.00 ,$0.00 ,1
+305,Limited Edition Cranberry Red Jalapeno,Ottawa,3,0,paypal.com,referral,0,$82.65 ,$0.00 ,$38.65 ,4
+216,Bad Karma Sauce,Barboursville,1,0,google,organic,1170,$82.00 ,$0.00 ,$0.00 ,8
+207,Bangkok,(not set),2,0,google,cpc,277,$81.00 ,$0.00 ,$6.00 ,7
+349,Black Label,New York,2,3,google,organic,220,$81.00 ,$0.00 ,$6.00 ,8
+264,Bangkok,Pleasantville,1,0,google,organic,354,$80.00 ,$0.00 ,$6.00 ,7
+255,Ghost Pepper Sauce Pack,Newark,2,0,google,organic,2224,$72.00 ,$0.00 ,$6.00 ,4
+291,Ghost Chili Apple,Montauk,1,0,(direct),(none),1740,$72.00 ,$0.00 ,$0.00 ,6
+383,The Gourmet Pack,Los Angeles,1,0,google,organic,290,$72.00 ,$0.00 ,$6.00 ,2
+145,313 Foodie Sauce,New York,10,13,google,organic,1358,$71.00 ,$0.00 ,$6.00 ,7
+382,Ghost Pepper Sauce Pack,West Hartford,2,0,paypal.com,referral,307,$69.00 ,$0.00 ,$6.00 ,2
+206,Ghost Pepper Sauce Pack,New York,2,0,paypal.com,referral,37,$66.00 ,$0.00 ,$6.00 ,2
+239,Habanero Hot Sauce Pack,New York,2,0,google,organic,0,$66.00 ,$0.00 ,$6.00 ,2
+274,Ghost Pepper Sauce Pack,New York,1,0,yahoo,organic,348,$66.00 ,$0.00 ,$6.00 ,2
+231,Hamajang Kiawe Smoked Ghost Pepper,Fort Lee,1,0,google,cpc,189,$61.00 ,$0.00 ,$6.00 ,5
+391,Hamajang Kiawe Smoked Ghost Pepper,New York,2,0,paypal.com,referral,0,$61.00 ,$0.00 ,$6.00 ,3
+318,Drunken Garlic Black Bean,Columbus,1,0,google,organic,601,$60.00 ,$0.00 ,$6.00 ,4
+213,Extreme Karma,New York,5,0,paypal.com,referral,154,$56.00 ,$0.00 ,$0.00 ,3
+337,The Gourmet Pack,Montreal,1,0,(direct),(none),1199,$55.15 ,$0.00 ,$22.15 ,1
+281,Big Smoke,New York,3,0,google,organic,174,$55.00 ,$0.00 ,$0.00 ,5
+181,$54.00 Gift Certificate,New York,1,0,(direct),(none),244,$54.00 ,$0.00 ,$0.00 ,1
+209,Habanero Hot Sauce,Karachi,1,0,google,cpc,378,$54.00 ,$0.00 ,$6.00 ,6
+214,Ghost Chili Apple,White Oak,5,0,paypal.com,referral,110,$54.00 ,$0.00 ,$6.00 ,4
+374,Habanero Carrot Curry,Holliston,2,0,google,cpc,234,$54.00 ,$0.00 ,$6.00 ,4
+379,Secret Aardvark Habanero Hot Sauce,Lubbock,2,0,paypal.com,referral,113,$54.00 ,$0.00 ,$6.00 ,6
+174,Jalapeno Lovers Pack,Madrid,4,1,(direct),(none),2192,$52.15 ,$0.00 ,$22.15 ,1
+258,Ghost Chili Apple,Richmond,3,0,paypal.com,referral,53,$52.00 ,$0.00 ,$6.00 ,5
+344,Brooklyn Grange Hot Sauce,Westminster,3,0,paypal.com,referral,179,$52.00 ,$0.00 ,$6.00 ,5
+350,Big Smoke,New York,2,0,paypal.com,referral,191,$52.00 ,$0.00 ,$6.00 ,4
+212,Spicy Moroccan Pepper Sauce,Minneapolis,1,0,google,cpc,331,$51.00 ,$0.00 ,$6.00 ,5
+223,Big Smoke,Longmont,6,0,paypal.com,referral,513,$50.00 ,$0.00 ,$6.00 ,4
+348,Bangkok,Austin,15,0,paypal.com,referral,64,$50.00 ,$0.00 ,$6.00 ,5
+283,313 Foodie Sauce,Kendall,1,0,google.com,referral,1228,$49.00 ,$0.00 ,$6.00 ,4
+290,313 Foodie Sauce,New York,1,0,eater.com,referral,920,$49.00 ,$0.00 ,$0.00 ,5
+353,American Style Pepper Sauce,New York,2,0,google,organic,235,$49.00 ,$0.00 ,$6.00 ,2
+219,Habanero Carrot Curry,Lowestoft,5,0,paypal.com,referral,363,$48.15 ,$0.00 ,$24.15 ,2
+217,American Style Pepper Sauce,Los Angeles,1,0,(direct),(none),547,$48.00 ,$0.00 ,$6.00 ,4
+329,Jalapeno & Green Apple Hot Sauce,Wichita,2,0,paypal.com,referral,118,$47.00 ,$0.00 ,$6.00 ,2
+316,Black Label,Houston,1,0,google,organic,415,$46.00 ,$0.00 ,$6.00 ,4
+179,Hamajang Kiawe Smoked Ghost Pepper,Austin,6,0,paypal.com,referral,44,$45.00 ,$0.00 ,$6.00 ,5
+222,Jalapeno Lovers Pack,Scranton,2,0,google,organic,1314,$44.00 ,$0.00 ,$6.00 ,2
+235,708 7 Pot Citrus,Evesham Township,1,0,(direct),(none),1632,$44.00 ,$0.00 ,$6.00 ,4
+275,Habanero Hot Sauce Pack,Washington,5,0,paypal.com,referral,0,$44.00 ,$0.00 ,$6.00 ,2
+359,Hellacious Hot Sauce,California City,2,0,(direct),(none),1,$44.00 ,$0.00 ,$12.00 ,4
+381,Secret Aardvark Habanero Hot Sauce,Covina,2,0,paypal.com,referral,0,$44.00 ,$0.00 ,$12.00 ,4
+395,Secret Aardvark Habanero Hot Sauce,Lawton,1,0,google,organic,30,$44.00 ,$0.00 ,$12.00 ,4
+393,Bangkok,Claremont,3,0,paypal.com,referral,257,$42.00 ,$0.00 ,$6.00 ,4
+245,Habanero,Unterschleissheim,2,1,eater.com,referral,1140,$41.00 ,$0.00 ,$6.00 ,4
+251,Drunken Garlic Black Bean,Kapolei,5,0,paypal.com,referral,294,$40.00 ,$0.00 ,$0.00 ,5
+294,Bangkok,New York,1,0,google,organic,693,$40.00 ,$0.00 ,$6.00 ,3
+300,313 Foodie Sauce,Cypress Lake,2,1,google,cpc,0,$40.00 ,$0.00 ,$12.00 ,4
+338,Brooklyn Grange Hot Sauce,Kirkwood,1,0,google,organic,1917,$40.00 ,$0.00 ,$6.00 ,3
+368,American Style Pepper Sauce,Boston,1,0,(direct),(none),592,$40.00 ,$0.00 ,$6.00 ,3
+370,Brooklyn Grange Hot Sauce,New York,2,0,paypal.com,referral,704,$40.00 ,$0.00 ,$6.00 ,3
+177,Hamajang Kiawe Smoked Ghost Pepper,New York,6,0,google,organic,19,$39.00 ,$0.00 ,$6.00 ,3
+192,313 Foodie Sauce,New York,1,0,google,organic,494,$39.00 ,$0.00 ,$0.00 ,4
+226,Hamajang Kiawe Smoked Ghost Pepper,New York,4,0,paypal.com,referral,63,$39.00 ,$0.00 ,$6.00 ,3
+279,The Gourmet Pack,Washington,1,0,eater.com,referral,320,$39.00 ,$0.00 ,$6.00 ,1
+280,The Gourmet Pack,San Francisco,2,0,paypal.com,referral,22,$39.00 ,$0.00 ,$6.00 ,1
+284,The Gourmet Pack,Hudson,2,0,(direct),(none),355,$39.00 ,$0.00 ,$6.00 ,1
+286,The Gourmet Pack,Smyrna,2,0,google,organic,627,$39.00 ,$0.00 ,$6.00 ,1
+295,Ghost Chili Apple,Spring Valley,1,0,google,organic,379,$39.00 ,$0.00 ,$6.00 ,3
+369,The Gourmet Pack,Chicago,10,0,google,organic,934,$39.00 ,$0.00 ,$6.00 ,1
+371,The Gourmet Pack,New York,2,12,google,organic,1104,$39.00 ,$0.00 ,$6.00 ,1
+375,The Gourmet Pack,New York,1,0,google,organic,284,$39.00 ,$0.00 ,$6.00 ,1
+377,The Gourmet Pack,New York,3,0,(direct),(none),490,$39.00 ,$0.00 ,$6.00 ,1
+386,The Gourmet Pack,New York,1,0,foodrepublic.com,referral,370,$39.00 ,$0.00 ,$6.00 ,1
+399,The Gourmet Pack,Rio de Janeiro,3,2,foodrepublic.com,referral,217,$39.00 ,$0.00 ,$6.00 ,1
+166,Bad Karma Sauce,Washington,1,0,(direct),(none),274,$38.00 ,$0.00 ,$0.00 ,4
+308,Big Smoke,Portland,4,0,paypal.com,referral,374,$38.00 ,$0.00 ,$6.00 ,3
+357,Bangkok,New York,4,0,paypal.com,referral,17,$38.00 ,$0.00 ,$6.00 ,3
+184,Habanero,New Orleans,4,0,paypal.com,referral,75,$37.00 ,$0.00 ,$6.00 ,3
+186,Rogue,Manteca,3,0,paypal.com,referral,58,$37.00 ,$0.00 ,$6.00 ,3
+201,Extreme Karma,Denver,2,0,paypal.com,referral,26,$37.00 ,$0.00 ,$6.00 ,3
+363,313 Foodie Sauce,Marion,5,0,paypal.com,referral,98,$37.00 ,$0.00 ,$0.00 ,2
+401,313 Foodie Sauce,Washington,2,0,google,organic,258,$37.00 ,$0.00 ,$6.00 ,3
+183,Habanero Hot Sauce Pack,New York,1,0,(direct),(none),217,$36.00 ,$0.00 ,$6.00 ,1
+241,Ghost Pepper Sauce Pack,Charleston,2,0,paypal.com,referral,0,$36.00 ,$0.00 ,$6.00 ,1
+243,Habanero Hot Sauce Pack,Somerville,1,0,eater.com,referral,249,$36.00 ,$0.00 ,$6.00 ,1
+244,Jalapeno Lovers Pack,Pilesgrove,1,0,eater.com,referral,284,$36.00 ,$0.00 ,$6.00 ,1
+247,Habanero Hot Sauce Pack,Moline,1,0,eater.com,referral,530,$36.00 ,$0.00 ,$6.00 ,1
+250,Ghost Pepper Sauce Pack,Washington,1,0,eater.com,referral,435,$36.00 ,$0.00 ,$6.00 ,1
+253,Ghost Pepper Sauce Pack,New York,2,9,eater.com,referral,429,$36.00 ,$0.00 ,$6.00 ,1
+254,Habanero Hot Sauce Pack,San Francisco,2,0,paypal.com,referral,73,$36.00 ,$0.00 ,$6.00 ,1
+259,Habanero Hot Sauce Pack,New York,1,0,google,organic,431,$36.00 ,$0.00 ,$6.00 ,1
+260,Habanero Hot Sauce Pack,Minneapolis,1,0,eater.com,referral,655,$36.00 ,$0.00 ,$6.00 ,1
+266,Habanero Hot Sauce Pack,Los Angeles,1,0,eater.com,referral,1018,$36.00 ,$0.00 ,$6.00 ,1
+267,Ghost Pepper Sauce Pack,Fairview,1,0,eater.com,referral,389,$36.00 ,$0.00 ,$6.00 ,1
+268,Habanero Hot Sauce Pack,Atlanta,1,0,(direct),(none),212,$36.00 ,$0.00 ,$6.00 ,1
+270,Habanero Hot Sauce Pack,Norman,3,0,eater.com,referral,227,$36.00 ,$0.00 ,$6.00 ,1
+271,Habanero Hot Sauce Pack,Mountain View,3,0,google,organic,135,$36.00 ,$0.00 ,$6.00 ,1
+272,Habanero Hot Sauce Pack,New York,1,0,google,organic,322,$36.00 ,$0.00 ,$6.00 ,1
+277,Habanero Hot Sauce Pack,Houston,1,0,eater.com,referral,1129,$36.00 ,$0.00 ,$6.00 ,1
+282,Brooklyn Grange Hot Sauce,New York,2,0,(direct),(none),1788,$36.00 ,$0.00 ,$6.00 ,3
+287,Ghost Pepper Sauce Pack,New York,1,0,google,organic,178,$36.00 ,$0.00 ,$6.00 ,1
+289,$36.00 Gift Certificate,Cranbury Township,2,0,paypal.com,referral,80,$36.00 ,$0.00 ,$0.00 ,1
+342,Ghost Pepper Sauce Pack,Beaumont,1,0,google,organic,325,$36.00 ,$0.00 ,$6.00 ,1
+364,Secret Aardvark Habanero Hot Sauce 4-Pack,New York,1,0,google,organic,3177,$36.00 ,$0.00 ,$6.00 ,1
+365,Habanero,New York,1,0,google,organic,465,$36.00 ,$0.00 ,$6.00 ,3
+390,Ghost Pepper Sauce Pack,Fairbanks,4,7,google,cpc,1843,$36.00 ,$0.00 ,$6.00 ,1
+397,Brooklyn Grange Hot Sauce,New York,2,0,paypal.com,referral,237,$36.00 ,$0.00 ,$6.00 ,3
+402,Ghost Pepper Sauce Pack,Los Angeles,2,0,paypal.com,referral,737,$36.00 ,$0.00 ,$6.00 ,1
+158,Foo Foo Mama Choo,Bon Air,2,0,paypal.com,referral,34,$35.00 ,$0.00 ,$0.00 ,3
+182,Drunken Jerk Sauce,Hudson,1,0,(direct),(none),1431,$35.00 ,$0.00 ,$6.00 ,3
+187,Black Label,Aurora,1,0,google,cpc,675,$35.00 ,$0.00 ,$6.00 ,3
+191,Habenero Carrot Curry,Waterloo,3,0,paypal.com,referral,68,$35.00 ,$0.00 ,$6.00 ,3
+220,Foo Foo Mama Choo,Atlanta,11,0,paypal.com,referral,45,$35.00 ,$0.00 ,$6.00 ,3
+285,$35.00 Gift Certificate,New York,2,0,(direct),(none),352,$35.00 ,$0.00 ,$0.00 ,1
+343,Habanero Carrot Curry,Eau Claire,1,0,(direct),(none),2376,$35.00 ,$0.00 ,$6.00 ,3
+356,Drunken Garlic Black Bean,New York,3,0,paypal.com,referral,408,$35.00 ,$0.00 ,$6.00 ,3
+221,Black Label,Washington,2,0,paypal.com,referral,167,$34.00 ,$0.00 ,$6.00 ,3
+261,Ghost Chili Apple,Wilkes-Barre,5,0,paypal.com,referral,126,$34.00 ,$0.00 ,$6.00 ,3
+327,$34.00 Gift Certificate,Richmond,16,0,google,organic,1394,$34.00 ,$0.00 ,$0.00 ,1
+161,Hellacious Hot Sauce,Greenwich,1,0,(direct),(none),521,$32.00 ,$0.00 ,$0.00 ,3
+293,708 7 Pot Citrus,O'Fallon,1,0,(direct),(none),1500,$32.00 ,$0.00 ,$6.00 ,3
+332,Secret Aardvark Habanero Hot Sauce,San Rafael,1,0,(direct),(none),0,$32.00 ,$0.00 ,$0.00 ,2
+152,Ghost Pepper Sauce Pack,Ibiza,1,0,l.facebook.com,referral,2018,$30.00 ,$0.00 ,$0.00 ,1
+153,Ghost Pepper Sauce Pack,Plainview,2,0,paypal.com,referral,53,$30.00 ,$0.00 ,$0.00 ,1
+167,Ghost Pepper Sauce Pack,Willmar,1,0,l.facebook.com,referral,275,$30.00 ,$0.00 ,$0.00 ,1
+190,Habanero Hot Sauce,Albuquerque,1,0,google,cpc,660,$30.00 ,$0.00 ,$6.00 ,3
+205,Drunken Garlic Black Bean,Alexandria,2,0,paypal.com,referral,0,$30.00 ,$0.00 ,$6.00 ,3
+262,Secret Aardvark Habanero Hot Sauce Pack,Cedar Rapids,2,0,paypal.com,referral,505,$30.00 ,$0.00 ,$0.00 ,1
+292,Ghost Pepper Sauce Pack,Atlanta,2,2,(direct),(none),619,$30.00 ,$0.00 ,$0.00 ,1
+306,Carolina-Style Barbeque Sauce,Lakeland,2,0,paypal.com,referral,52,$30.00 ,$0.00 ,$6.00 ,3
+309,Secret Aardvark Habanero Hot Sauce,San Diego,2,0,paypal.com,referral,115,$30.00 ,$0.00 ,$6.00 ,3
+310,Big Smoke,New York,1,0,google,cpc,265,$30.00 ,$0.00 ,$0.00 ,3
+311,Carolina-Style Barbeque Sauce,Houston,1,0,google,cpc,1527,$30.00 ,$0.00 ,$6.00 ,3
+317,Ghost Chili Apple,New York,1,0,(direct),(none),527,$30.00 ,$0.00 ,$6.00 ,2
+328,Ghost Chili Apple,White Oak,2,0,paypal.com,referral,156,$30.00 ,$0.00 ,$6.00 ,2
+330,Red Chili Lime,New York,2,0,paypal.com,referral,77,$30.00 ,$0.00 ,$6.00 ,2
+333,Drunken Garlic Black Bean,Ithaca,2,0,paypal.com,referral,35,$30.00 ,$0.00 ,$6.00 ,3
+334,Secret Aardvark Habanero Hot Sauce,Estacada,1,0,google,cpc,504,$30.00 ,$0.00 ,$6.00 ,3
+351,Ghost Pepper & Blueberry Hot Sauce,Eau Claire,8,2,(direct),(none),901,$30.00 ,$0.00 ,$6.00 ,3
+355,Ghost Pepper & Blueberry Hot Sauce,Waynesboro,1,0,(direct),(none),969,$30.00 ,$0.00 ,$6.00 ,3
+373,Habanero Carrot Curry,Holliston,1,0,google,cpc,333,$30.00 ,$0.00 ,$6.00 ,2
+304,American Style Pepper Sauce,Richmond,9,4,google,organic,900,$29.00 ,$0.00 ,$0.00 ,3
+380,313 Foodie Sauce,Rockville Centre,2,0,paypal.com,referral,74,$29.00 ,$0.00 ,$6.00 ,3
+176,Brooklyn Grange Hot Sauce,New York,2,0,paypal.com,referral,88,$28.00 ,$0.00 ,$6.00 ,2
+200,Green Label,New York,1,0,(direct),(none),1009,$28.00 ,$0.00 ,$0.00 ,3
+233,Garlic Jalapeno,Danbury,2,0,paypal.com,referral,469,$28.00 ,$0.00 ,$6.00 ,2
+263,Big Smoke,Dix Hills,3,0,paypal.com,referral,41,$28.00 ,$0.00 ,$6.00 ,2
+265,Black Label,Dover,3,0,paypal.com,referral,69,$28.00 ,$0.00 ,$6.00 ,2
+335,Limited Edition Cranberry Red Jalapeno,(not set),4,0,paypal.com,referral,55,$28.00 ,$0.00 ,$0.00 ,3
+159,Foo Foo Mama Choo,Aloha,2,0,paypal.com,referral,0,$27.00 ,$0.00 ,$0.00 ,3
+165,Bad Karma Sauce,La Vista,1,0,l.facebook.com,referral,419,$27.00 ,$0.00 ,$0.00 ,3
+150,Drunken Jerk Sauce,Buffalo,2,0,paypal.com,referral,216,$26.00 ,$0.00 ,$6.00 ,2
+210,Foo Foo Mama Choo,New Bedford,1,0,google,cpc,1025,$26.00 ,$0.00 ,$6.00 ,2
+237,Jalapeno,Raleigh,3,0,paypal.com,referral,106,$26.00 ,$0.00 ,$0.00 ,3
+193,$25.00 Gift Certificate,New York,28,0,paypal.com,referral,16,$25.00 ,$0.00 ,$0.00 ,1
+326,Tears Of The Sun,New York,2,0,paypal.com,referral,498,$24.75 ,$0.00 ,$16.75 ,1
+163,American Style Pepper Sauce,Seattle,3,1,l.facebook.com,referral,906,$24.00 ,$0.00 ,$0.00 ,2
+208,Bad Karma Sauce,New York,1,0,(direct),(none),351,$24.00 ,$0.00 ,$0.00 ,3
+225,Green Spicy Moroccan Pepper Sauce,Exeter,1,0,google,cpc,437,$24.00 ,$0.00 ,$6.00 ,2
+302,Secret Aardvark Habanero Hot Sauce,Richmond,3,0,paypal.com,referral,52,$24.00 ,$0.00 ,$0.00 ,3
+345,Green Spicy Moroccan Pepper Sauce,(not set),1,0,google,cpc,266,$24.00 ,$0.00 ,$6.00 ,2
+195,708 7 Pot Citrus,Grand Junction,3,0,paypal.com,referral,28,$23.00 ,$0.00 ,$6.00 ,2
+154,Drunken Jerk Sauce,Hudson,2,0,l.facebook.com,referral,162,$22.00 ,$0.00 ,$0.00 ,2
+230,Oh My Garlic!,New Orleans,2,0,paypal.com,referral,102,$22.00 ,$0.00 ,$6.00 ,2
+269,Secret Aardvark Habanero Hot Sauce,Chula Vista,1,0,google,cpc,343,$22.00 ,$0.00 ,$6.00 ,2
+276,$22.00 Gift Certificate,Lexington,2,0,paypal.com,referral,49,$22.00 ,$0.00 ,$0.00 ,1
+299,Secret Aardvark Habanero Hot Sauce,Denver,2,0,paypal.com,referral,137,$22.00 ,$0.00 ,$6.00 ,2
+358,Secret Aardvark Habanero Hot Sauce,San Diego,3,0,paypal.com,referral,47,$22.00 ,$0.00 ,$6.00 ,2
+372,Drunken Jerk Sauce,Nashville,2,0,paypal.com,referral,810,$22.00 ,$0.00 ,$6.00 ,2
+156,Foo Foo Mama Choo,Sellersville,1,0,(direct),(none),572,$20.00 ,$0.00 ,$0.00 ,2
+160,Ghost Chili Apple,Wichita,4,0,paypal.com,referral,0,$20.00 ,$0.00 ,$0.00 ,2
+288,313 Foodie Sauce,Encinitas,2,0,google,cpc,308,$20.00 ,$0.00 ,$6.00 ,2
+313,313 Foodie Sauce,Columbus,1,0,google,cpc,154,$20.00 ,$0.00 ,$6.00 ,2
+354,Big Smoke,Ocean City,2,0,paypal.com,referral,51,$20.00 ,$0.00 ,$6.00 ,1
+384,313 Foodie Sauce,Detroit,2,0,paypal.com,referral,56,$20.00 ,$0.00 ,$6.00 ,2
+232,708 7 Pot Citrus,Farmington Hills,2,0,paypal.com,referral,197,$19.00 ,$0.00 ,$0.00 ,2
+151,Green Spicy Moroccan Pepper Sauce,Kalispell,2,1,google,cpc,382,$18.00 ,$0.00 ,$0.00 ,2
+171,Extreme Karma,Waco,2,0,paypal.com,referral,0,$18.00 ,$0.00 ,$6.00 ,1
+175,Scotch Bonnet & Ginger,New York,44,2,optimizely.com,referral,503,$18.00 ,$0.00 ,$6.00 ,1
+199,Habanero Carrot Curry,Santa Monica,2,0,paypal.com,referral,1,$18.00 ,$0.00 ,$6.00 ,1
+143,Hamajang Kiawe Smoked Ghost Pepper,San Francisco,1,0,(direct),(none),1961,$17.00 ,$0.00 ,$6.00 ,1
+147,Black Label,New York,2,0,(direct),(none),0,$17.00 ,$0.00 ,$0.00 ,2
+157,Bad Karma Sauce,Mercersburg,3,0,paypal.com,referral,1,$17.00 ,$0.00 ,$0.00 ,2
+169,Hamajang Kiawe Smoked Ghost Pepper,Evergreen,1,0,google,cpc,409,$17.00 ,$0.00 ,$6.00 ,1
+236,Brooklyn Grange Hot Sauce,Milwaukee,1,0,brooklyngrangefarm.com,referral,331,$16.00 ,$0.00 ,$6.00 ,1
+240,$16.00 Gift Certificate,Bowling Green,5,0,(direct),(none),447,$16.00 ,$0.00 ,$0.00 ,1
+296,Secret Aardvark Habanero Hot Sauce,Clearlake,2,0,paypal.com,referral,122,$16.00 ,$0.00 ,$0.00 ,2
+196,Rogue,Newport News,4,0,paypal.com,referral,41,$15.00 ,$0.00 ,$6.00 ,1
+227,Spicy Moroccan Pepper Sauce,Colorado Springs,2,0,paypal.com,referral,89,$15.00 ,$0.00 ,$6.00 ,1
+273,Rogue,Pima,2,0,paypal.com,referral,99,$15.00 ,$0.00 ,$6.00 ,1
+341,Rogue,Lawton,1,0,google,cpc,227,$15.00 ,$0.00 ,$6.00 ,1
+172,Habanero Hot Sauce,New York,1,0,(direct),(none),259,$14.00 ,$0.00 ,$6.00 ,1
+229,Secret Aardvark Habanero Hot Sauce,Naperville,2,0,paypal.com,referral,0,$14.00 ,$0.00 ,$6.00 ,1
+238,Tears Of The Sun,Bowling Green,3,7,(direct),(none),1885,$14.00 ,$0.00 ,$6.00 ,1
+248,313 Foodie Sauce,Dearborn Heights,3,0,google,cpc,243,$14.00 ,$0.00 ,$0.00 ,2
+314,Drunken Jerk Sauce,Shrewsbury,1,0,google,cpc,97,$14.00 ,$0.00 ,$6.00 ,1
+340,Secret Aardvark Habanero Hot Sauce,San Francisco,1,0,google,cpc,349,$14.00 ,$0.00 ,$6.00 ,1
+346,Secret Aardvark Habanero Hot Sauce,Fruitville,4,1,google,cpc,1197,$14.00 ,$0.00 ,$6.00 ,1
+398,Secret Aardvark Habanero Hot Sauce,Richmond,24,2,google,organic,783,$14.00 ,$0.00 ,$6.00 ,1
+148,313 Foodie Sauce,Ypsilanti charter Township,2,0,paypal.com,referral,104,$13.00 ,$0.00 ,$6.00 ,1
+252,313 Foodie Sauce,New York,2,0,google,organic,909,$13.00 ,$0.00 ,$6.00 ,1
+185,Ghost Chili Apple,New York,1,0,google,organic,1487,$12.00 ,$0.00 ,$0.00 ,1
+155,Habanero Hot Sauce,New York,3,0,paypal.com,referral,53,$8.00 ,$0.00 ,$0.00 ,1
+173,Habanero Hot Sauce,New York,1,0,google,cpc,359,$8.00 ,$0.00 ,$0.00 ,1
+180,Habanero Hot Sauce,Albany,1,0,google,cpc,385,$8.00 ,$0.00 ,$0.00 ,1
+242,Secret Aardvark Habanero Hot Sauce,Antioch,2,0,paypal.com,referral,59,$8.00 ,$0.00 ,$0.00 ,1
+256,Secret Aardvark Habanero Hot Sauce,Ann Arbor,1,0,google,cpc,583,$8.00 ,$0.00 ,$0.00 ,1
+297,Drunken Jerk Sauce,Phoenix,2,0,google,cpc,1165,$8.00 ,$0.00 ,$0.00 ,1
+303,Secret Aardvark Habanero Hot Sauce,Seattle,5,0,paypal.com,referral,0,$8.00 ,$0.00 ,$0.00 ,1
+312,Secret Aardvark Habanero Hot Sauce,Los Angeles,2,0,paypal.com,referral,217,$8.00 ,$0.00 ,$0.00 ,1
+319,Drunken Garlic Black Bean,Bozeman,2,0,paypal.com,referral,47,$8.00 ,$0.00 ,$0.00 ,1
+378,Secret Aardvark Habanero Hot Sauce,Chicago,1,0,google,cpc,167,$8.00 ,$0.00 ,$0.00 ,1
+149,313 Foodie Sauce,New York,40,0,paypal.com,referral,399,$7.00 ,$0.00 ,$0.00 ,1
+194,Big Smoke,New York,1,0,(direct),(none),1270,$1.00 ,$0.00 ,$0.00 ,2
